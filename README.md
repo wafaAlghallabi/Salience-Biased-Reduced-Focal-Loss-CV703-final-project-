@@ -12,7 +12,7 @@ Follow instructios to install Detectron2 from (https://detectron2.readthedocs.io
 ### Dataset
 Download [iSAID from](https://captain-whu.github.io/iSAID/dataset.html)
 
-###Training 
+### Training 
 Our modifications were on these files in the Detectron2 directory. Follow these steps to start tranining:
 
 1. Generate Saliency map : sal_map/Generating_sal_maps.ipynb
